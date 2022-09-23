@@ -12,9 +12,10 @@ int main(void)
 		for (sammy = 48; sammy < 58; sammy++)
 		{
 			putchar(sammy);
-		        if (sammy != 57)
-			{													                                        putchar(',');
-			        putchar(' ');														        }
+			if (sammy != 57)
+                        {																		putchar(',');
+				putchar(' ');
+			}
 		}
 		putchar('\n');
 		return (0);

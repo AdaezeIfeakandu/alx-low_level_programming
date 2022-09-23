@@ -13,7 +13,7 @@ int main(void)
 		{
 			if (sammy != 'q' && sammy != 'e')
 				putchar(sammy);
-	        }
+		}
 		putchar('\n');
 		return (0);
 }
