@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - program compilation begins from main
- * Description: Program to print all possible combinations of numbers with no two numbers same in pairing
- * autho: AdaezeIfeakandu
+ * Description: main - Program to print all possible combinations of numbers with no two numbers same in pairing
+ * autho:r AdaezeIfeakandu
  * Return: 0 means success
  */
 int main(void)
